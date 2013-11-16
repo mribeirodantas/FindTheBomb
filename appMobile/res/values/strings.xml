@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find The Bomb</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="counter_terrorist">Counter Terrorist</string>
+    <string name="terror">Terror</string>
+    <string name="title_activity_ct">CTActivity</string>
+    <string name="title_activity_terror">TerrorActivity</string>
+    <string name="selecione_um_time">Selecione um time</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+
+</resources>
